@@ -314,7 +314,7 @@ A full-stack travel itinerary planning application designed to help users manage
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChintamaniAdak&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chintamani27&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </p>
 
@@ -324,23 +324,23 @@ A full-stack travel itinerary planning application designed to help users manage
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChintamaniAdak&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintamani27&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChintamaniAdak&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintamani27&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChintamaniAdak&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintamani27&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChintamaniAdak&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintamani27&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChintamaniAdak&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintamani27&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
