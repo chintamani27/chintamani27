@@ -1,26 +1,19 @@
-```markdown
-<!-- ========================================================= -->
-<!--              CHINTAMANI ADAK GITHUB PROFILE                -->
-<!--              QA / SOFTWARE TESTING PROFILE                  -->
-<!-- ========================================================= -->
-
+```md
 <h1 align="center">
-Hi 👋 I'm Chintamani Dinkar Adak
+  Hi 👋 I'm Chintamani Dinkar Adak
 </h1>
 
 <h3 align="center">
-Software Tester • QA Enthusiast • Computer Engineering Graduate
+  Software Tester • QA Enthusiast • Computer Engineering Graduate
 </h3>
 
 <p align="center">
-Passionate about Manual Testing, Software Quality, Test Case Design,
-Defect Detection, and delivering reliable software.
+  Passionate about Manual Testing, Test Case Design, Defect Detection,
+  API Testing, SQL, and delivering reliable software.
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Tester;Manual+Testing+Enthusiast;Test+Case+Design+%7C+Defect+Reporting;SDLC+%7C+STLC+%7C+Agile;Java+%7C+SQL+%7C+API+Testing;Functional+%7C+Regression+%7C+Integration+Testing;Always+Learning+%26+Improving"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Tester;Manual+Testing+Enthusiast;Test+Case+Design+%7C+Defect+Reporting;SDLC+%7C+STLC+%7C+Agile;Java+%7C+SQL+%7C+API+Testing;Functional+%7C+Regression+%7C+Integration+Testing;Always+Learning+%26+Improving"/>
 </p>
 
 ---
@@ -31,16 +24,17 @@ I'm a **Computer Engineering graduate** with a strong interest in **Software Tes
 
 I have a good understanding of **SDLC, STLC, Agile methodology, Scrum, software testing principles, test case design, test scenarios, defect life cycle, and functional testing**.
 
-My testing knowledge includes techniques such as:
+My testing knowledge includes:
 
 - Equivalence Class Partitioning
 - Boundary Value Analysis
 - Decision Table Testing
 - State Transition Testing
+- Error Guessing
 
 I have hands-on experience creating and executing **test cases**, identifying defects, validating expected results, and documenting issues.
 
-I also have a technical background in **Java, SQL, HTML, CSS, JavaScript, Angular, Node.js, MongoDB, and REST APIs**, which helps me understand applications from both the user and technical perspectives.
+I also have a technical background in **Java, SQL, HTML, CSS, JavaScript, Angular, Node.js, MongoDB, and REST APIs**, which helps me understand applications from both user and technical perspectives.
 
 My goal is to contribute to building **reliable, functional, and high-quality software** through effective testing and defect identification.
 
@@ -61,8 +55,6 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 - Compatibility Testing
 - Positive & Negative Testing
 
----
-
 ## 📋 Test Documentation
 
 - Test Scenarios
@@ -75,8 +67,6 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 - Test Closure Reports
 - Test Conditions
 
----
-
 ## 🧠 Test Design Techniques
 
 - Equivalence Class Partitioning (ECP)
@@ -84,8 +74,6 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 - Decision Table Testing
 - State Transition Testing
 - Error Guessing
-
----
 
 ## 🔄 Testing Processes
 
@@ -105,16 +93,14 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 # 🛠️ Testing Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode"/>
 </p>
 
 - Jira
 - Postman
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 - REST API Testing
 - Bug Tracking
 - Test Case Management
@@ -126,9 +112,7 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 ## ☕ Programming
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
 - Java
@@ -137,14 +121,10 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 - HTML
 - CSS
 
----
-
 ## 🗄️ Database Testing
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 - MySQL
@@ -158,14 +138,10 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 - Database Validation
 - Data Verification
 
----
-
 ## 🌐 Web & API Knowledge
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=angular,nodejs,express"/>
-
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,express"/>
 </p>
 
 - Web Application Testing
@@ -186,8 +162,8 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 | Area | Knowledge |
 |---|---|
 | Testing Type | Manual Testing |
-| SDLC | Understanding of Development Life Cycle |
-| STLC | Understanding of Testing Life Cycle |
+| SDLC | Software Development Life Cycle |
+| STLC | Software Testing Life Cycle |
 | Methodology | Agile / Scrum |
 | Test Design | BVA, ECP, Decision Table, State Transition |
 | Functional Testing | UI, Functional, Integration, System |
@@ -205,7 +181,6 @@ My goal is to contribute to building **reliable, functional, and high-quality so
 ## 🍎 AI-Powered Pomegranate Fruit Disease Detection
 
 ### Role
-
 **Software Tester / QA**
 
 ### Overview
@@ -237,10 +212,9 @@ An AI-based web application developed to detect diseases in pomegranate fruits f
 
 ---
 
-## 🤖 Code-Reviewer -- AI-Powered Code Review Platform
+## 🤖 Code-Reviewer — AI-Powered Code Review Platform
 
 ### Role
-
 **Software Testing / QA**
 
 ### Overview
@@ -269,7 +243,6 @@ A full-stack web application that uses the **Gemini AI API** to analyze source c
 ## 🎓 Student Management System
 
 ### Role
-
 **Software Testing / QA**
 
 ### Overview
@@ -294,10 +267,9 @@ A student management application designed to manage student records and academic
 
 ---
 
-## 🌍 TravelSync -- Travel Itinerary Planner
+## 🌍 TravelSync — Travel Itinerary Planner
 
 ### Role
-
 **Software Testing / QA**
 
 ### Tech Stack
@@ -317,59 +289,7 @@ A student management application designed to manage student records and academic
 
 ---
 
-# 📊 Testing Practice
-
-Currently practicing and improving skills in:
-
-- Test Case Writing
-- Test Scenario Identification
-- Requirement Analysis
-- Functional Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- UI Testing
-- API Testing
-- Database Testing
-- Defect Reporting
-- SQL Testing
-- Agile Testing
-
----
-
-# 📝 Sample Testing Activities
-
-### Login Page
-
-Test scenarios include:
-
-- Verify login with valid credentials.
-- Verify login with invalid username.
-- Verify login with invalid password.
-- Verify login with blank fields.
-- Verify password masking.
-- Verify forgot password functionality.
-- Verify error messages.
-- Verify account lockout behavior.
-
-### API Testing
-
-Testing includes:
-
-- GET
-- POST
-- PUT
-- DELETE
-- Request validation
-- Response validation
-- Status code validation
-- JSON response validation
-- Authentication testing
-- Negative API testing
-
----
-
-# 📈 Technical Strengths
+# 📊 Technical Strengths
 
 <table>
 <tr>
@@ -413,6 +333,34 @@ Testing includes:
 
 ---
 
+# 📝 Sample Testing Activities
+
+## Login Page
+
+- Verify login with valid credentials.
+- Verify login with invalid username.
+- Verify login with invalid password.
+- Verify login with blank fields.
+- Verify password masking.
+- Verify forgot password functionality.
+- Verify error messages.
+- Verify account lockout behavior.
+
+## API Testing
+
+- GET
+- POST
+- PUT
+- DELETE
+- Request validation
+- Response validation
+- Status code validation
+- JSON response validation
+- Authentication testing
+- Negative API testing
+
+---
+
 # 🌱 Currently Learning
 
 - Advanced Manual Testing
@@ -433,9 +381,7 @@ Testing includes:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chintamani27&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=chintamani27&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 </p>
 
 ---
@@ -443,25 +389,17 @@ Testing includes:
 # 📋 GitHub Profile Summary
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintamani27&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintamani27&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintamani27&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintamani27&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintamani27&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintamani27&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintamani27&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintamani27&theme=tokyonight&utcOffset=5.5"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chintamani27&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chintamani27&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
@@ -504,9 +442,7 @@ Testing includes:
 
 **Brain-O-Vision Solutions India Pvt. Ltd. — October 2023**
 
-Learned fundamentals of:
-
-- AWS
+- AWS fundamentals
 - EC2
 - Load Balancing
 - Cloud Computing
@@ -514,8 +450,6 @@ Learned fundamentals of:
 ### 📊 HP LIFE — Data Science & Analytics
 
 **HP LIFE — 2025**
-
-Covered:
 
 - Data Analysis
 - Data Visualization
@@ -526,8 +460,6 @@ Covered:
 
 **Edunet Foundation — 2024**
 
-Participated in hands-on sessions covering:
-
 - Artificial Intelligence
 - Machine Learning
 - Green Skills
@@ -537,7 +469,7 @@ Participated in hands-on sessions covering:
 
 # 🎯 Career Objective
 
-I am seeking opportunities in **Software Testing and Quality Assurance** where I can apply my knowledge of manual testing, test case design, defect identification, API testing, SQL, and Agile methodologies.
+I am seeking opportunities in **Software Testing and Quality Assurance** where I can apply my knowledge of **Manual Testing, Test Case Design, Defect Identification, API Testing, SQL, and Agile methodologies**.
 
 I aim to contribute to delivering **reliable, functional, and high-quality software** while continuously developing my skills in software testing and test automation.
 
