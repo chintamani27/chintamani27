@@ -1,5 +1,7 @@
+```markdown
 <!-- ========================================================= -->
-<!--                 CHINTAMANI ADAK GITHUB PROFILE             -->
+<!--              CHINTAMANI ADAK GITHUB PROFILE                -->
+<!--              QA / SOFTWARE TESTING PROFILE                  -->
 <!-- ========================================================= -->
 
 <h1 align="center">
@@ -7,36 +9,121 @@ Hi 👋 I'm Chintamani Dinkar Adak
 </h1>
 
 <h3 align="center">
-Java Full Stack Developer • Computer Engineering Graduate • Problem Solver
+Software Tester • QA Enthusiast • Computer Engineering Graduate
 </h3>
 
 <p align="center">
-Building scalable web applications using Java, JavaScript, Angular, Node.js, SQL, and MongoDB.
+Passionate about Manual Testing, Software Quality, Test Case Design,
+Defect Detection, and delivering reliable software.
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Computer+Engineering+Graduate;Java+%7C+JavaScript+%7C+SQL;Angular+%7C+Node.js+%7C+MongoDB;Building+Full+Stack+Applications;Problem+Solving+%7C+DSA;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Tester;Manual+Testing+Enthusiast;Test+Case+Design+%7C+Defect+Reporting;SDLC+%7C+STLC+%7C+Agile;Java+%7C+SQL+%7C+API+Testing;Functional+%7C+Regression+%7C+Integration+Testing;Always+Learning+%26+Improving"/>
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧪 About Me
 
-I'm a **Computer Engineering graduate** passionate about software development, full-stack web technologies, and problem solving.
+I'm a **Computer Engineering graduate** with a strong interest in **Software Testing and Quality Assurance**.
 
-I have a strong foundation in **Java, Data Structures & Algorithms, Object-Oriented Programming, DBMS, SQL, and web development**.
+I have a good understanding of **SDLC, STLC, Agile methodology, Scrum, software testing principles, test case design, test scenarios, defect life cycle, and functional testing**.
 
-I enjoy building practical applications, designing REST APIs, working with databases, debugging problems, and continuously improving my software engineering skills.
+My testing knowledge includes techniques such as:
 
-I'm particularly interested in developing **scalable and optimized software systems** while strengthening my knowledge of backend development, Java technologies, and modern full-stack development.
+- Equivalence Class Partitioning
+- Boundary Value Analysis
+- Decision Table Testing
+- State Transition Testing
+
+I have hands-on experience creating and executing **test cases**, identifying defects, validating expected results, and documenting issues.
+
+I also have a technical background in **Java, SQL, HTML, CSS, JavaScript, Angular, Node.js, MongoDB, and REST APIs**, which helps me understand applications from both the user and technical perspectives.
+
+My goal is to contribute to building **reliable, functional, and high-quality software** through effective testing and defect identification.
 
 ---
 
-# 🛠 Engineering Stack
+# 🧪 Software Testing Skills
 
-## 💻 Programming Languages
+## 🔍 Manual Testing
+
+- Functional Testing
+- Integration Testing
+- System Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- UI Testing
+- Exploratory Testing
+- Compatibility Testing
+- Positive & Negative Testing
+
+---
+
+## 📋 Test Documentation
+
+- Test Scenarios
+- Test Cases
+- Test Data
+- Test Execution
+- Defect Reports
+- Requirement Traceability Matrix (RTM)
+- Test Summary Reports
+- Test Closure Reports
+- Test Conditions
+
+---
+
+## 🧠 Test Design Techniques
+
+- Equivalence Class Partitioning (ECP)
+- Boundary Value Analysis (BVA)
+- Decision Table Testing
+- State Transition Testing
+- Error Guessing
+
+---
+
+## 🔄 Testing Processes
+
+- Software Development Life Cycle (SDLC)
+- Software Testing Life Cycle (STLC)
+- Defect Life Cycle
+- Agile Methodology
+- Scrum
+- Requirement Analysis
+- Test Planning
+- Test Execution
+- Defect Tracking
+- Regression Testing
+
+---
+
+# 🛠️ Testing Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode"/>
+
+</p>
+
+- Jira
+- Postman
+- Git
+- GitHub
+- VS Code
+- REST API Testing
+- Bug Tracking
+- Test Case Management
+
+---
+
+# 💻 Technical Skills
+
+## ☕ Programming
 
 <p>
 
@@ -52,239 +139,272 @@ I'm particularly interested in developing **scalable and optimized software syst
 
 ---
 
-## 🎨 Frontend Development
+## 🗄️ Database Testing
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 </p>
 
-Experienced in:
-
-- Angular
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Responsive Web Design
-- Component-Based Development
-- Interactive Dashboards
-
----
-
-## ⚙️ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-Experienced in:
-
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication
-- JWT
-- CRUD Operations
-- Server-Side Routing
-- Data Validation
-- API Integration
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-Working with:
-
-- MongoDB
 - MySQL
-- SQL
-- NoSQL
-- Database Design
+- MongoDB
+- SQL Queries
 - CRUD Operations
-- Data Management
+- Joins
+- Aggregate Functions
+- GROUP BY / HAVING
+- Subqueries
+- Database Validation
+- Data Verification
 
 ---
 
-## 🧠 Computer Science Fundamentals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- SQL
-- Problem Solving
-- Logical Thinking
-- Debugging
-- Software Development Fundamentals
-
----
-
-## 🔧 Development Tools
+## 🌐 Web & API Knowledge
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=angular,nodejs,express"/>
 
 </p>
 
-- Git
-- GitHub
-- Visual Studio Code
-- Postman
-- REST API Testing
-- Version Control
+- Web Application Testing
+- REST APIs
+- HTTP Methods
+- HTTP Status Codes
+- Request & Response Validation
+- JSON
+- API Functional Testing
+- Authentication Testing
+- Angular Applications
+- Node.js Applications
 
 ---
 
-# 🏗️ Engineering Expertise
+# 🧰 Testing Knowledge
 
-✔ Java Programming
-
-✔ Full Stack Web Development
-
-✔ REST API Development
-
-✔ Angular Development
-
-✔ Node.js & Express.js
-
-✔ MongoDB & MySQL
-
-✔ JWT Authentication
-
-✔ CRUD Applications
-
-✔ Role-Based Access Control
-
-✔ Database Management
-
-✔ Problem Solving
-
-✔ Data Structures & Algorithms
-
-✔ Object-Oriented Programming
-
-✔ Debugging & Optimization
-
-✔ Responsive Web Development
+| Area | Knowledge |
+|---|---|
+| Testing Type | Manual Testing |
+| SDLC | Understanding of Development Life Cycle |
+| STLC | Understanding of Testing Life Cycle |
+| Methodology | Agile / Scrum |
+| Test Design | BVA, ECP, Decision Table, State Transition |
+| Functional Testing | UI, Functional, Integration, System |
+| Regression | Regression & Retesting |
+| Defect Management | Defect Reporting & Defect Life Cycle |
+| API Testing | REST API Testing with Postman |
+| Database Testing | SQL / MySQL / MongoDB |
+| Documentation | Test Cases, Scenarios, RTM, Test Reports |
+| Tools | Jira, Postman, Git, GitHub |
 
 ---
 
 # 🌟 Featured Projects
 
-## 🤖 Code-Reviewer — AI-Powered Code Review Platform
+## 🍎 AI-Powered Pomegranate Fruit Disease Detection
+
+### Role
+
+**Software Tester / QA**
 
 ### Overview
 
-A full-stack web application that automatically reviews source code using the **Gemini AI API** and provides AI-generated feedback to developers.
+An AI-based web application developed to detect diseases in pomegranate fruits from uploaded images using a trained **YOLOv11 model**.
+
+### Tech Stack
+
+**Python • YOLOv11 • FastAPI • ReactJS • REST API • Manual Testing**
+
+### Testing Responsibilities
+
+- Analyzed application requirements and identified test scenarios.
+- Designed and executed test cases for major application functionalities.
+- Tested image upload functionality using valid and invalid image inputs.
+- Verified disease prediction results against expected application behavior.
+- Performed positive and negative testing.
+- Tested UI elements, navigation, input validation, and error handling.
+- Performed API testing of backend endpoints.
+- Verified HTTP status codes and API responses.
+- Identified, documented, and analyzed defects.
+- Performed retesting after defect fixes.
+- Performed regression testing to ensure existing functionality remained unaffected.
+- Validated application behavior under different input conditions.
+
+### Testing Areas
+
+**Functional Testing • UI Testing • API Testing • Regression Testing • Negative Testing • Boundary Testing**
+
+---
+
+## 🤖 Code-Reviewer -- AI-Powered Code Review Platform
+
+### Role
+
+**Software Testing / QA**
+
+### Overview
+
+A full-stack web application that uses the **Gemini AI API** to analyze source code and generate automated feedback.
 
 ### Tech Stack
 
 **Angular • Node.js • Express.js • MongoDB • Gemini API**
 
-### Highlights
+### Testing Focus
 
-- AI-powered automated code review
-- Secure JWT authentication
-- User authentication and authorization
-- Source code file upload
-- AI-generated code feedback
-- Interactive dashboard
-- Syntax highlighting
-- Secure code analysis
-- Full-stack architecture
+- Tested user registration and login functionality.
+- Validated JWT-based authentication and authorization.
+- Tested source code file upload functionality.
+- Verified valid and invalid input handling.
+- Tested dashboard navigation and UI components.
+- Verified API requests and responses.
+- Tested CRUD operations.
+- Performed positive and negative test cases.
+- Tested authentication and access control scenarios.
+- Performed regression testing after functionality changes.
 
 ---
 
 ## 🎓 Student Management System
 
+### Role
+
+**Software Testing / QA**
+
 ### Overview
 
-A full-stack student management platform designed to manage student records and academic information through role-based access.
+A student management application designed to manage student records and academic information using role-based access.
 
 ### Tech Stack
 
 **Angular • Node.js • Express.js • SQL**
 
-### Features
+### Testing Focus
 
-- Role-Based Access Control
-- Admin Dashboard
-- Student Management
-- Academic Data Management
-- RESTful APIs
-- User Management
-- CRUD Operations
-- Database Integration
+- Tested student registration and management workflows.
+- Verified CRUD operations.
+- Tested role-based access control.
+- Validated student and academic data.
+- Tested admin dashboard functionality.
+- Verified REST API responses.
+- Performed database validation using SQL queries.
+- Tested positive and negative scenarios.
+- Identified and documented functional defects.
 
 ---
 
-## 🌍 TravelSync — Travel Itinerary Planner
+## 🌍 TravelSync -- Travel Itinerary Planner
 
-### Overview
+### Role
 
-A full-stack travel itinerary planning application designed to help users manage and organize travel plans.
+**Software Testing / QA**
 
 ### Tech Stack
 
 **Node.js • Express.js • MongoDB • EJS**
 
-### Highlights
+### Testing Focus
 
-- MVC Architecture
-- Travel Itinerary Management
-- Dynamic User Interface
-- EJS Templating
-- Responsive Design
-- Express.js Routing
-- Server-Side Validation
-- MongoDB Integration
+- Tested travel itinerary creation and modification.
+- Validated user input and form fields.
+- Tested server-side validation.
+- Verified database operations.
+- Tested navigation and UI workflows.
+- Performed positive and negative testing.
+- Validated MongoDB data.
+- Tested application behavior for invalid inputs.
 
 ---
 
-# 📊 Technical Strengths
+# 📊 Testing Practice
+
+Currently practicing and improving skills in:
+
+- Test Case Writing
+- Test Scenario Identification
+- Requirement Analysis
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- UI Testing
+- API Testing
+- Database Testing
+- Defect Reporting
+- SQL Testing
+- Agile Testing
+
+---
+
+# 📝 Sample Testing Activities
+
+### Login Page
+
+Test scenarios include:
+
+- Verify login with valid credentials.
+- Verify login with invalid username.
+- Verify login with invalid password.
+- Verify login with blank fields.
+- Verify password masking.
+- Verify forgot password functionality.
+- Verify error messages.
+- Verify account lockout behavior.
+
+### API Testing
+
+Testing includes:
+
+- GET
+- POST
+- PUT
+- DELETE
+- Request validation
+- Response validation
+- Status code validation
+- JSON response validation
+- Authentication testing
+- Negative API testing
+
+---
+
+# 📈 Technical Strengths
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 💻 Development
+### 🧪 Testing
 
-- Java
-- JavaScript
-- Angular
-- Node.js
-- Express.js
-- REST APIs
-- HTML
-- CSS
-- Bootstrap
+- Manual Testing
+- Test Case Design
+- Test Scenarios
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- API Testing
+- Database Testing
+- Defect Reporting
 
 </td>
 
 <td width="50%">
 
-### 🗄️ Data & Fundamentals
+### 💻 Technical
 
-- MySQL
-- MongoDB
+- Java
 - SQL
-- NoSQL
-- DBMS
-- DSA
-- OOP
-- Problem Solving
-- Debugging
+- HTML
+- CSS
+- JavaScript
+- Angular
+- Node.js
+- MongoDB
+- REST APIs
+- Data Structures
 
 </td>
 
@@ -295,18 +415,18 @@ A full-stack travel itinerary planning application designed to help users manage
 
 # 🌱 Currently Learning
 
-- Advanced Java
-- Java Full Stack Development
-- Spring Framework
-- Spring Boot
-- REST API Development
-- Data Structures & Algorithms
+- Advanced Manual Testing
+- API Testing with Postman
 - Advanced SQL
-- Database Design
-- Software Testing
-- Backend Development
-- System Design
-- Machine Learning Fundamentals
+- Database Testing
+- Java for Automation Testing
+- Selenium WebDriver
+- Test Automation Fundamentals
+- Agile Testing
+- Jira
+- Software Testing Best Practices
+- DSA
+- Core Java
 
 ---
 
@@ -362,7 +482,7 @@ A full-stack travel itinerary planning application designed to help users manage
 
 - Practicing Data Structures & Algorithms
 - Improving logical and analytical thinking
-- Strengthening problem-solving skills
+- Strengthening programming fundamentals
 - Preparing for technical interviews
 - Practicing arrays, strings, linked lists, stacks, queues, trees, graphs, and algorithms
 
@@ -417,25 +537,20 @@ Participated in hands-on sessions covering:
 
 # 🎯 Career Objective
 
-I am looking for opportunities where I can contribute as a:
+I am seeking opportunities in **Software Testing and Quality Assurance** where I can apply my knowledge of manual testing, test case design, defect identification, API testing, SQL, and Agile methodologies.
 
-- Java Developer
-- Software Development Engineer
-- Full Stack Developer
-- Backend Developer
-- Software Engineer
-
-My goal is to build reliable and scalable software while continuously improving my skills in **Java, backend development, databases, DSA, and modern full-stack technologies**.
+I aim to contribute to delivering **reliable, functional, and high-quality software** while continuously developing my skills in software testing and test automation.
 
 ---
 
 # ⚡ Fun Facts
 
-- ☕ I enjoy turning ideas into working applications.
-- 💻 I like building full-stack projects and learning through hands-on development.
-- 🧠 I enjoy solving programming and logical problems.
-- 🚀 I'm continuously improving my Java and software development skills.
-- 📚 I believe consistent learning is the key to becoming a better engineer.
+- 🧪 I enjoy finding bugs before users do.
+- 🔍 I like exploring different scenarios to test application behavior.
+- ☕ I enjoy turning requirements into test cases.
+- 🧠 I like solving logical and programming problems.
+- 📚 I believe continuous learning is essential for becoming a better QA professional.
+- 🚀 I enjoy understanding how applications work from both user and technical perspectives.
 
 ---
 
@@ -451,7 +566,7 @@ My goal is to build reliable and scalable software while continuously improving 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ChintamaniAdak">
+<a href="https://github.com/chintamani27">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -461,9 +576,9 @@ My goal is to build reliable and scalable software while continuously improving 
 
 # ❤️ Support My Work
 
-If you find my projects useful or interesting, consider giving them a ⭐.
+If you find my testing projects, documentation, or repositories useful, consider giving them a ⭐.
 
-It motivates me to keep building, learning, and contributing to the developer community.
+It motivates me to keep learning, testing, and building better software.
 
 ---
 
@@ -477,6 +592,7 @@ It motivates me to keep building, learning, and contributing to the developer co
 
 ### Thanks for visiting my profile! 🚀
 
-**Let's build something impactful together.**
+**Let's build better software together.**
 
 </p>
+```
