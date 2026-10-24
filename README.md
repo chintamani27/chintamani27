@@ -1,116 +1,212 @@
 
-# Hi there, I'm Chintamani Adak 👋
+<!-- Animated Header -->
+<div align="center">
 
-### Software Testing Intern | Aspiring QA Engineer | Automation Testing Enthusiast
+# 👋 Hi, I'm Chintamani Adak!
 
-🎓 Computer Engineering graduate passionate about software quality, test automation, and building reliable applications.
+### 🧪 Software Testing Intern | QA Engineer Aspirant | Automation Testing Enthusiast
 
-💼 Currently gaining practical experience as a **Software Testing Intern at Cravita Technology**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Manual+Testing+%7C+API+Testing;Selenium+WebDriver+with+Java;TestNG+%7C+Maven+%7C+Jira;Postman+%7C+JMeter+%7C+SQL;Learning+%E2%80%A2+Testing+%E2%80%A2+Automating" alt="Typing SVG" />
 
-- 🔍 Learning and practicing Manual Testing, API Testing, and Automation Testing.
-- 🧪 Working with Selenium WebDriver, Java, Maven, and TestNG.
-- 📮 Exploring API testing with Postman and performance testing with JMeter.
-- 🐞 Practicing test case design, test execution, and defect reporting.
-- 🗄️ Learning and practicing SQL, MySQL, and MongoDB.
-- 🤖 Interested in Generative AI and its applications in software testing.
-- 🚀 Continuously learning, building projects, and improving my QA skills.
+<p>
+  <a href="https://github.com/chintamani27">
+    <img src="https://img.shields.io/badge/GitHub-chintamani27-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/chintamani-adak-044a572b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering graduate from Sinhgad Institute of Technology, Lonavala.
+- 💼 Software Testing Intern at **Cravita Technology**.
+- 🔍 Interested in Manual Testing, API Testing, and Automation Testing.
+- 🧪 Practicing test case design, test execution, defect reporting, retesting, and regression testing.
+- 🤖 Learning Selenium WebDriver with Java and TestNG.
+- 📮 Exploring REST API testing with Postman and performance testing with JMeter.
+- 🐞 Familiar with Jira, Agile workflows, SDLC, and STLC.
+- 🗄️ Practicing SQL, MySQL, and MongoDB for database validation.
+- 🤖 Interested in Generative AI and its applications in software quality assurance.
+- 🎯 Goal: Grow into a skilled QA Engineer and Automation Testing professional.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Software Testing
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-4169E1?style=for-the-badge)
-![Automation Testing](https://img.shields.io/badge/Automation_Testing-6A5ACD?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-008B8B?style=for-the-badge)
+### 🧪 Software Testing
 
-### Automation & Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional_Testing-008B8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Testing-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation_Testing-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression_Testing-7952B3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smoke_%26_Sanity_Testing-CC5500?style=for-the-badge" />
+</p>
 
-### API, Performance & Test Management
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### ⚙️ Automation & Programming
 
-### Databases & Web Technologies
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,selenium,maven,eclipse" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XPath-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS_Selectors-1572B6?style=for-the-badge" />
+</p>
+
+### 📮 API, Performance & Test Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,jira" />
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,html,css,javascript,bootstrap,git,github" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🧰 Testing Knowledge
 
-### 1. Selenium Maven Automation
-**Technologies:** Java, Selenium WebDriver, Maven
+| Area | Concepts |
+|---|---|
+| Testing Fundamentals | SDLC, STLC, Agile, Defect Life Cycle |
+| Test Design | Boundary Value Analysis, Equivalence Class Partitioning, Decision Tables, State Transitions |
+| Test Execution | Positive & Negative Testing, Functional Testing, Regression Testing |
+| Selenium | XPath, CSS Selectors, Waits, Dropdowns, Alerts, Windows, Screenshots, Actions |
+| TestNG | Annotations, Assertions, Basic Test Execution |
+| API Testing | REST APIs, HTTP Methods, Status Codes, Request/Response Validation |
+| Database Testing | SQL Queries, Joins, CRUD Operations, Data Validation |
+| Test Documentation | Test Cases, Test Scenarios, Execution Reports, Defect Reports |
+| Tools | Jira, Postman, JMeter, Maven, Git, GitHub |
 
-- Practicing browser automation using Selenium WebDriver.
-- Working with locators, waits, browser navigation, alerts, and window handling.
-- Learning to organize and execute automation tests.
+---
 
-🔗 [View Repository](https://github.com/chintamani27/Selenium-Maven-Automation)
+## 🚀 Featured Projects
 
-### 2. inFlow Inventory Management System — Manual Testing
-**Technologies:** Manual Testing, Microsoft Excel
+### 🧪 1. Selenium Maven Automation
 
-- Designed and executed manual test cases for the Sales Order module.
-- Practiced positive and negative testing.
-- Documented test results and reported defects with severity and priority.
-- Prepared test case and defect report documentation.
+**Tech Stack:** Java · Selenium WebDriver · Maven
 
-### 3. AI-Powered Pomegranate Fruit Disease Detection
-**Technologies:** Python, FastAPI, React.js, YOLO
+- Practicing web browser automation using Selenium WebDriver.
+- Working with XPath, CSS Selectors, waits, dropdowns, alerts, and browser windows.
+- Exploring keyboard and mouse interactions, screenshots, and login automation.
+- Learning to organize automated tests using TestNG.
+
+🔗 [View Selenium Maven Automation Repository](https://github.com/chintamani27/Selenium-Maven-Automation)
+
+### 📋 2. inFlow Inventory Management System — Manual Testing
+
+**Tech Stack:** Manual Testing · Microsoft Excel
+
+- Designed and executed test cases for the Sales Order module.
+- Performed positive and negative testing and functional validation.
+- Documented defects with appropriate severity and priority.
+- Prepared test cases and defect reports.
+
+🔗 Add your manual testing project repository or documentation link here.
+
+### 🍎 3. AI-Powered Pomegranate Fruit Disease Detection
+
+**Tech Stack:** Python · YOLOv11 · React.js · FastAPI
 
 - Academic project focused on detecting pomegranate fruit diseases using computer vision.
-- Explored image classification, model training, and web application integration.
+- Worked with a machine learning model and web application integration.
+- Explored image-based prediction workflows.
+
+🔗 Add your project repository link here.
+
+---
+
+## 🧠 LeetCode & Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+*Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.*
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chintamani27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chintamani27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintamani27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=chintamani27&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Selenium WebDriver with Java
+- TestNG and test assertions
+- Data-driven testing with TestNG DataProviders
+- API testing with Postman
+- Performance testing with Apache JMeter
+- SQL and database testing
+- Automation framework development
+- CI/CD fundamentals and Jenkins
 
 ---
 
 ## 🎓 Education & Professional Development
 
-- **Bachelor of Engineering — Computer Engineering**
-  Sinhgad Institute of Technology, Lonavala
-
-- **Software Testing Training**
-  Fortune Cloud Technologies
-
-- **Software Testing Internship**
-  Cravita Technology
+- 🎓 **B.E. in Computer Engineering** — Sinhgad Institute of Technology, Lonavala
+- 🧪 **Full Stack Testing with Java Training** — Fortune Cloud Technologies
+- 💼 **Software Testing Intern** — Cravita Technology
 
 ---
 
-## 📈 Current Learning Goals
+## 🤝 Let's Connect!
 
-- Strengthening Selenium WebDriver with Java.
-- Learning TestNG and data-driven testing.
-- Improving API testing skills using Postman.
-- Practicing SQL queries and database testing.
-- Exploring automation framework design and CI/CD concepts.
-- Exploring Generative AI applications in QA.
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/chintamani-adak-044a572b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Chintamani_Adak-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-## 🤝 Connect With Me
+<a href="https://github.com/chintamani27">
+  <img src="https://img.shields.io/badge/GitHub-chintamani27-181717?style=for-the-badge&logo=github" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chintamani-adak-044a572b2/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/chintamani27)
-
-📧 Email: Add your professional email address here.
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
-**Learn • Practice • Test • Automate • Improve**
+### 💡 Learn • Practice • Test • Automate • Improve
+
+*Thanks for visiting my profile! ⭐*
+
+</div>
